@@ -1,0 +1,13 @@
+C:\Users\Marco\Desktop\Projeto passagem\bin\Debug\netcoreapp3.1\Projeto passagem.exe
+C:\Users\Marco\Desktop\Projeto passagem\bin\Debug\netcoreapp3.1\Projeto passagem.deps.json
+C:\Users\Marco\Desktop\Projeto passagem\bin\Debug\netcoreapp3.1\Projeto passagem.runtimeconfig.json
+C:\Users\Marco\Desktop\Projeto passagem\bin\Debug\netcoreapp3.1\Projeto passagem.runtimeconfig.dev.json
+C:\Users\Marco\Desktop\Projeto passagem\bin\Debug\netcoreapp3.1\Projeto passagem.dll
+C:\Users\Marco\Desktop\Projeto passagem\bin\Debug\netcoreapp3.1\Projeto passagem.pdb
+C:\Users\Marco\Desktop\Projeto passagem\obj\Debug\netcoreapp3.1\Projeto passagem.csprojAssemblyReference.cache
+C:\Users\Marco\Desktop\Projeto passagem\obj\Debug\netcoreapp3.1\Projeto passagem.AssemblyInfoInputs.cache
+C:\Users\Marco\Desktop\Projeto passagem\obj\Debug\netcoreapp3.1\Projeto passagem.AssemblyInfo.cs
+C:\Users\Marco\Desktop\Projeto passagem\obj\Debug\netcoreapp3.1\Projeto passagem.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Desktop\Projeto passagem\obj\Debug\netcoreapp3.1\Projeto passagem.dll
+C:\Users\Marco\Desktop\Projeto passagem\obj\Debug\netcoreapp3.1\Projeto passagem.pdb
+C:\Users\Marco\Desktop\Projeto passagem\obj\Debug\netcoreapp3.1\Projeto passagem.genruntimeconfig.cache
